@@ -1,6 +1,6 @@
 # "HTML Project"
 
-This project was built by Dave Gray on freeCodeCamp titled HTML Full Course for Begineers (https://www.youtube.com/DaveGrayTeachesCode) using YouTube.
+This project was built alongside Dave Gray on freeCodeCamp to understand HTML titled HTML Full Course for Begineers (https://www.youtube.com/DaveGrayTeachesCode) using YouTube.
 
 
 I rebuilt the project myself to practice the syntax of html which inludes links, class, id, table, paragraphy, header tags, lists (ordered and unordered), data, address, section, main, figure, article, navagition, aside,fieldset (for form creation), radio and others and its structure such as meta, head, body, and footer.
